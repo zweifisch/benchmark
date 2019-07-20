@@ -1,0 +1,25 @@
+{
+  "name": "@zf/benchmark",
+  "version": "0.0.0",
+  "description": "benchmark in forked process",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "files": [
+    "index.js"
+  ],
+  "author": "zf",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/zweifisch/benchmark.git"
+  },
+  "bugs": {
+    "url": "https://github.com/zweifisch/benchmark/issues"
+  },
+  "homepage": "https://github.com/zweifisch/benchmark#readme",
+  "keywords": [
+    "benchmark"
+  ]
+}
